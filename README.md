@@ -1,6 +1,6 @@
 07 Oct, 2021  
 **Heisenbug**  
-[Nuances of testing a distributed database](https://heisenbug-moscow.ru/talks/4wwcjxql9ii1y4ajjk25de/)
+[Nuances of testing a Distributed Database](https://heisenbug-moscow.ru/talks/4wwcjxql9ii1y4ajjk25de/)
 
 16 Jun, 2021  
 **Summer QA Meetup**  
