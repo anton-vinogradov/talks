@@ -10,7 +10,7 @@
 24 May, 2021  
 **Apache Ignite Summit**  
 [Deep dive into Apache Ignite testing](https://ignite-summit.org/sessions/256034)  
-[Video](https://youtu.be/uRRlGrSA3NY?t=168) (English)
+[Video](https://youtu.be/uRRlGrSA3NY) (English)
 
 17 May, 2021  
 **Highload++**  
