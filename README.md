@@ -7,7 +7,7 @@ October 7, 2021
 
 October 6, 2021  
 **Heisenbug**  
-[Round table discusson](https://heisenbug-moscow.ru/talks/2jx2njwxv3hidskcvvklvf/) (Russian)
+[Testing of distributed systems, open source DBMS and processing. Is there a big difference in approach? (Round table)](https://heisenbug-moscow.ru/talks/2jx2njwxv3hidskcvvklvf/) (Russian)
 
 Jun 16, 2021  
 **Summer QA Meetup**  
