@@ -1,9 +1,13 @@
 ## Talks
 
-October 07, 2021  
+October 7, 2021  
 **Heisenbug**  
 [Nuances of testing a Distributed Database](https://heisenbug-moscow.ru/talks/4wwcjxql9ii1y4ajjk25de/)  
 [Video](https://youtu.be/hZjnlL4cJUg) (Russian)
+
+October 6, 2021  
+**Heisenbug**  
+[Round table discusson](https://heisenbug-moscow.ru/talks/2jx2njwxv3hidskcvvklvf/) (Russian)
 
 Jun 16, 2021  
 **Summer QA Meetup**  
