@@ -38,6 +38,6 @@ November 16, 2021
 **Ignite Summit**  
 [Committee member](https://ignite-summit.org/committee/) (English)
 
-October 18-19, 2021  
+October 18-19, 2018  
 **Joker conference**  
 Volunteering (see. [atricle](https://habr.com/ru/company/sberbank/blog/426639/)) (Russian)
