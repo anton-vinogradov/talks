@@ -2,7 +2,7 @@
 
 Jun 28, 2022  
 **Test Driven Conf**  
-[Как далеко нужно зайти при тестировании распределенной базы данных?](https://tdconf.ru/2022/abstracts/8097)  
+[How far should you go when testing a distributed database?](https://tdconf.ru/2022/abstracts/8097)  
 [Video](https://youtu.be/Av_x8L8bFGI) (Russian)  
 
 October 7, 2021  
