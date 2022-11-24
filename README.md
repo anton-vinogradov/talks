@@ -2,8 +2,7 @@
 
 Oct 29, 2022  
 **SmartData**  
-[Restoring a distributed database after a disaster](https://smartdataconf.ru/talks/e6c7a25b877f4e69b06ef3b6bf0f7eda/)  
-[Video]() (Russian)  
+[Restoring a distributed database after a disaster](https://smartdataconf.ru/talks/e6c7a25b877f4e69b06ef3b6bf0f7eda/)   
 
 Jun 28, 2022  
 **Test Driven Conf**  
