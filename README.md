@@ -1,5 +1,9 @@
 ## Talks
 
+Sep 14, 2023  
+**SmartData**  
+[Сжатие, шифрование и не только: меняем поведение и гарантии распределенной базы данных](https://smartdataconf.ru/talks/6d4feaeb7bcd4f66aa631e3bfbf3e565/)   
+
 Oct 29, 2022  
 **SmartData**  
 [Restoring a distributed database after a disaster](https://smartdataconf.ru/talks/e6c7a25b877f4e69b06ef3b6bf0f7eda/)   
