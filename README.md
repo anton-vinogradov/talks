@@ -3,6 +3,7 @@
 Sep 14, 2023  
 **SmartData**  
 [Сжатие, шифрование и не только: меняем поведение и гарантии распределенной базы данных](https://smartdataconf.ru/talks/6d4feaeb7bcd4f66aa631e3bfbf3e565/)   
+[Video](https://youtu.be/L0lY3Kpo9w4) (Russian)  
 
 Oct 29, 2022  
 **SmartData**  
