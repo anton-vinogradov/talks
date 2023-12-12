@@ -1,5 +1,10 @@
 ## Talks
 
+Nov 28, 2023  
+**Highload++**  
+[Как вложиться в Open Source и не прогореть?](https://highload.ru/moscow/2023/abstracts/10696)   
+[Video](https://youtu.be/_yrHoRRQcMs)  
+
 Sep 14, 2023  
 **SmartData**  
 [Сжатие, шифрование и не только: меняем поведение и гарантии распределенной базы данных](https://smartdataconf.ru/talks/6d4feaeb7bcd4f66aa631e3bfbf3e565/)   
