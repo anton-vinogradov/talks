@@ -49,6 +49,9 @@ September 11, 2018
 [Introduction to the typical open-source solution development](https://dins.timepad.ru/event/789532/)  
 [Video](https://youtu.be/tziLl3EQdDE)
 
+## Podcasts
+[db.podcast](https://www.youtube.com/@db.podcast)
+
 ## Articles
 Habrahabr [blog](https://habr.com/ru/users/randoom/posts/)
 
