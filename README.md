@@ -50,7 +50,13 @@ September 11, 2018
 [Video](https://youtu.be/tziLl3EQdDE)
 
 ## Podcasts
+[неВЕРНЫЕ ВЫВОДЫ](https://www.youtube.com/@in.correct.conclusions)
+- [Распределенные, конкурентные и устойчивые к отказам сервисы](https://youtu.be/lQKggqjAh_8)
+
 [db.podcast](https://www.youtube.com/@db.podcast)
+- [Back to the future of the Apache Ignite](https://youtu.be/TJ2hs6ETwgw)
+- [База данных от Apple, FoundationDB](https://youtu.be/LkGNUSFU3Ls)
+- [Топим лёд! Смотрим на Snowflake глазами разработчиков Ignite](https://youtu.be/d4VYOlx3fVw)
 
 ## Articles
 Habrahabr [blog](https://habr.com/ru/users/randoom/posts/)
