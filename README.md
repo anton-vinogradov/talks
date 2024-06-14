@@ -12,17 +12,17 @@ Sep 14, 2023
 
 Oct 29, 2022  
 **SmartData**  
-[Restoring a distributed database after a disaster](https://smartdataconf.ru/talks/e6c7a25b877f4e69b06ef3b6bf0f7eda/)   
+[Восстановление распределенной базы данных после аварии](https://smartdataconf.ru/talks/e6c7a25b877f4e69b06ef3b6bf0f7eda/)   
 [Video](https://youtu.be/FEV5joMzzj4)
 
 Jun 28, 2022  
 **Test Driven Conf**  
-[How far should you go when testing a distributed database?](https://tdconf.ru/2022/abstracts/8097)  
+[Как далеко нужно зайти при тестировании распределенной базы данных?](https://tdconf.ru/2022/abstracts/8097)  
 [Video](https://youtu.be/Av_x8L8bFGI)  
 
 October 7, 2021  
 **Heisenbug**  
-[Nuances of testing a Distributed Database](https://heisenbug-moscow.ru/talks/4wwcjxql9ii1y4ajjk25de/)  
+[Нюансы тестирования распределенной базы данных](https://heisenbug-moscow.ru/talks/4wwcjxql9ii1y4ajjk25de/)  
 [Video](https://youtu.be/hZjnlL4cJUg)
 
 October 6, 2021  
@@ -31,7 +31,7 @@ October 6, 2021
 
 Jun 16, 2021  
 **Summer QA Meetup**  
-[Apache Ignite Ducktests: Testing of Distributed System](https://www.meetup.com/St-Petersburg-Apache-Ignite-Meetup/events/278467433/)  
+[Apache Ignite Ducktests: тестируем распределенную базу данных](https://www.meetup.com/St-Petersburg-Apache-Ignite-Meetup/events/278467433/)  
 [Video](https://youtu.be/f-i9COU5uAQ)
 
 May 24, 2021  
@@ -41,12 +41,12 @@ May 24, 2021
 
 May 17, 2021  
 **Highload++**  
-[Crash Recovery of a Distributed Database](https://www.highload.ru/spring/2021/abstracts/6504)  
+[Crash Recovery в Распределенном Хранилище](https://www.highload.ru/spring/2021/abstracts/6504)  
 [Video](https://www.youtube.com/watch?v=UZsvCNjbkww)
 
 September 11, 2018  
 **Java meetup #1 (Dins)**  
-[Introduction to the typical open-source solution development](https://dins.timepad.ru/event/789532/)  
+[Введение в разработку типичного Open Source решения](https://dins.timepad.ru/event/789532/)  
 [Video](https://youtu.be/tziLl3EQdDE)
 
 ## Podcasts
