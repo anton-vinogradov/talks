@@ -51,6 +51,7 @@ September 11, 2018
 
 ## Podcasts
 [неВЕРНЫЕ ВЫВОДЫ](https://www.youtube.com/@in.correct.conclusions)
+- [kTLS (Kernel TLS)](https://youtu.be/Z8TJZdTJr9A)
 - [Распределенные, конкурентные и устойчивые к отказам сервисы](https://youtu.be/lQKggqjAh_8)
 
 [db.podcast](https://www.youtube.com/@db.podcast)
