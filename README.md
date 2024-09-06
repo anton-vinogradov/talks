@@ -60,6 +60,9 @@ September 11, 2018
 - [База данных от Apple, FoundationDB](https://youtu.be/LkGNUSFU3Ls)
 - [Топим лёд! Смотрим на Snowflake глазами разработчиков Ignite](https://youtu.be/d4VYOlx3fVw)
 
+## Channels
+[ДатаГрид не горит!](https://t.me/unignitable_datagrid)
+
 ## Articles
 Habrahabr [blog](https://habr.com/ru/users/randoom/posts/)
 
