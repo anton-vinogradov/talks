@@ -1,4 +1,7 @@
 ## Talks
+Sep 8, 2024
+**SmartData**
+[Почему Kafka тормозит в продакшене и как это исправить с помощью kTLS?](https://smartdataconf.ru/talks/534c2283c5ec44a1b599d9b33c32d163/)
 
 Nov 28, 2023  
 **Highload++**  
