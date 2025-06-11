@@ -1,7 +1,7 @@
 ## Talks
 June 5, 2025  
 **TechLead Conf**  
-[Почему нас бесит код-ревью и как с этим бороться?]([https://smartdataconf.ru/talks/534c2283c5ec44a1b599d9b33c32d163/](https://techleadconf.ru/2025/abstracts/15265))  
+[Почему нас бесит код-ревью и как с этим бороться?]([https://smartdataconf.ru/talks/534c2283c5ec44a1b599d9b33c32d163/](https://techleadconf.ru/2025/abstracts/15265)  
 
 Sep 8, 2024  
 **SmartData**  
